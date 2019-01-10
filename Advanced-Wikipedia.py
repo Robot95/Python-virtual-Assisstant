@@ -1,4 +1,4 @@
-//importing wikipedia library
+# importing wikipedia library
 import wikipedia
 
 while True:
